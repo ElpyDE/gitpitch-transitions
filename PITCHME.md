@@ -47,3 +47,9 @@ no slide-specific transition
 
     @transition[zoom]
 
+---
+
+# Slide eight
+
+no slide-specific transition
+

@@ -1,5 +1,5 @@
 
-# Slide one
+# Slide zero
 
 PITCHME.yaml:
 
@@ -9,47 +9,59 @@ transition: fade
 
 ---
 
-# Slide two
+# Slide one
 
 no slide-specific transition
 
 ---
 @transition[convex]
 
-# Slide three
+# Slide two
 
     @transition[convex]
 
 ---
 @transition[convex zoom]
 
-# Slide four
+# Slide three
 
     @transition[convex zoom]
 
 ---
 @transition[zoom fade]
 
-# Slide five
+# Slide four
 
     @transition[zoom fade]
 
 ---
 
-# Slide six
+# Slide five
 
 no slide-specific transition
 
 ---
 @transition[zoom]
 
-# Slide seven
+# Slide six
 
     @transition[zoom]
 
 ---
 
-# Slide eight
+# Slide seven
 
 no slide-specific transition
 
+---
+@transition[zoom convex]
+
+# Slide eight
+
+    @transition[zoom convex]
+
+---
+
+# Slide nine
+
+no slide-specific transition

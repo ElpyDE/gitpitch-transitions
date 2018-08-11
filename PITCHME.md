@@ -39,3 +39,11 @@ no slide-specific transition
 # Slide six
 
 no slide-specific transition
+
+---
+@transition[zoom]
+
+# Slide seven
+
+    @transition[zoom]
+

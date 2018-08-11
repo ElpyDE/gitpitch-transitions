@@ -1,11 +1,7 @@
 
 # Slide zero
 
-PITCHME.yaml:
-
-```yaml
-transition: fade
-```
+PITCHME.yaml is empty
 
 ---
 

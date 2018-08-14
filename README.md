@@ -1,7 +1,14 @@
 # gitpitch-transitions
 Showcase for eventual bug with gitpitch slide transitions
 
-View here: https://gitpitch.com/ElpyDE/gitpitch-transitions/master
+__Status: Bug solved!__
+
+See claryfying comment/issue: https://github.com/gitpitch/gitpitch/issues/206#issuecomment-412846704
+
+View working version here: https://gitpitch.com/ElpyDE/gitpitch-transitions/master
+
+View non-working version here: https://gitpitch.com/ElpyDE/gitpitch-transitions/bug-exists  
+and here: View working version here: https://gitpitch.com/ElpyDE/gitpitch-transitions/non-default
 
 ## Description
 

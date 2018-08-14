@@ -21,18 +21,18 @@ no slide-specific transition
     @transition[convex]
 
 ---
-@transition[convex zoom]
+@transition[convex-in zoom-out]
 
 # Slide three
 
-    @transition[convex zoom]
+    @transition[convex-in zoom-out]
 
 ---
-@transition[zoom fade]
+@transition[zoom-in fade-out]
 
 # Slide four
 
-    @transition[zoom fade]
+    @transition[zoom-in fade-out]
 
 ---
 
@@ -54,11 +54,11 @@ no slide-specific transition
 no slide-specific transition
 
 ---
-@transition[zoom convex]
+@transition[zoom-in convex-out]
 
 # Slide eight
 
-    @transition[zoom convex]
+    @transition[zoom-in convex-out]
 
 ---
 
